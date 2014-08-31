@@ -1,5 +1,8 @@
 Package.describe({
-    summary: "This date range picker component for Twitter Bootstrap 3 creates a dropdown menu from which a user can select a range of dates."
+    summary: "Date range picker component for Twitter Bootstrap 3",
+    "name": "loftsteinn:bootstrap3-daterangepicker",
+    version: "0.3.0",
+    git: "https://github.com/oskarszoon/meteor-bootstrap-daterangepicker"
 });
 
 Package.on_use(function(api) {

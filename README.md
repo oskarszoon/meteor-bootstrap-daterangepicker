@@ -4,5 +4,6 @@
 
 ###How to use?
 
-1. Install [meteorite](https://github.com/oortcloud/meteorite)
-2. `mrt add bootstrap3-daterangepicker`
+1. Update Meteor to 0.9+
+2. `meteor add lofsteinn:bootstrap3-daterangepicker`
+3. Profit!
