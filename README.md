@@ -5,5 +5,5 @@
 ###How to use?
 
 1. Update Meteor to 0.9+
-2. `meteor add lofsteinn:bootstrap3-daterangepicker`
+2. `meteor add loftsteinn:bootstrap3-daterangepicker`
 3. Profit!
