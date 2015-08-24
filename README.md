@@ -1,9 +1,5 @@
-##Date Range Picker for Twitter Bootstrap 3 - Meteor Smart Package
+## !This package has been deprecated!
 
-[Date Range Picker for Twitter Bootstrap](https://github.com/dangrossman/bootstrap-daterangepicker) to support Bootstrap 3, packaged for Meteor, forked from [BenjaminRH](https://github.com/BenjaminRH/meteor-bootstrap-daterangepicker).
+Please use [dangrossman's original package](https://github.com/dangrossman/bootstrap-daterangepicker) which now uses bootstrap3 as the default.
 
-###How to use?
-
-1. Update Meteor to 0.9+
-2. `meteor add lofsteinn:bootstrap3-daterangepicker`
-3. Profit!
+`meteor add dangrossman:bootstrap-daterangepicker`
