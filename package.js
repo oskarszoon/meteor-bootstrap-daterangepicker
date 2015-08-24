@@ -1,7 +1,7 @@
 Package.describe({
     summary: "Date range picker component for Twitter Bootstrap 3",
     "name": "loftsteinn:bootstrap3-daterangepicker",
-    version: "1.3.21",
+    version: "2.0.9",
     git: "https://github.com/oskarszoon/meteor-bootstrap-daterangepicker"
 });
 
